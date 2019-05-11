@@ -1,0 +1,25 @@
+* {
+	padding: 0; margin: 0; border-radius: 0;
+}
+
+body {
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(lib.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	color: white;
+}
+
+#judul {
+	margin-top: 200px;
+	margin-bottom: 60px;
+}
+
+#cari {
+	padding:23px;
+	border-radius: 20px;
+}
+
+footer {
+	color: #eee;
+	margin-top:300px;
+}
