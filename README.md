@@ -5,6 +5,6 @@ Built with PHP & MySQL
 <br><br>
 Created by Budhiluhoer
 <br>
-Instagram : @budhilhr
+Follow me : https://www.instagram.com/budhilhr/
 
 Thanks!
